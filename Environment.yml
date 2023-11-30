@@ -1,0 +1,28 @@
+name: insar
+channels:
+  - conda-forge
+  - pip
+  - defaults
+  - https://conda.anaconda.org/conda-forge
+dependencies:
+  - python=3.8.8
+  - argcomplete
+  - cartopy
+  - cvxopt
+  - dask=1.0
+  - dask-jobqueue=0.3
+  - h5py
+  - joblib
+  - lxml
+  - matplotlib
+  - numpy
+  - pyaps3=0.3
+  - pykml=0.2
+  - pyproj
+  - pyresample
+  - pysolid
+  - rich
+  - scikit-image
+  - scipy
+  - shapely
+  - utm
