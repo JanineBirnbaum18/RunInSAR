@@ -26,3 +26,6 @@ dependencies:
   - scipy
   - shapely
   - utm
+  -conda-forge
+  -conda-forge:
+    - minpy
