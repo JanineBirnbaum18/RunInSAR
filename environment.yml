@@ -26,4 +26,4 @@ dependencies:
   - scipy
   - shapely
   - utm
-  - minpy
+  - mintpy
